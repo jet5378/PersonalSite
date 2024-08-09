@@ -5,13 +5,13 @@ function Navbar(){
             <nav className="navbar">
                 <ul>
                     <li>
-                        <a href="/Home">Home</a>
+                        <a href="/">Home</a>
                     </li>
                     <li>
-                        <a href="/About">About</a>
+                        <a href="/about">About</a>
                     </li>
                     <li>
-                        <a href="/Links">Links</a>
+                        <a href="/links">Links</a>
                     </li>
                 </ul>
             </nav>
